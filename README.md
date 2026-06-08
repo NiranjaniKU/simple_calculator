@@ -136,4 +136,4 @@ MIT
 
 ---
 
-**Built with ❤️ using semantic HTML, CSS design systems, and vanilla JavaScript best practices.**
+
